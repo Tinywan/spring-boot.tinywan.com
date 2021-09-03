@@ -5,7 +5,8 @@
 ## Windows
 
 ```
-mvnw spring-boot:run
+cd spring-boot.tinywan.com
+./mvnw spring-boot:run
 ```
 
 ## open
